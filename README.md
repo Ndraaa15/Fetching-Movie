@@ -1,3 +1,8 @@
 # Fetching-Movie
-Learning how to use fetching in java script and use some bootstrap
-Using open API from OMDB
+
+Learning how to fetching data in Java Script and some bootstrap.
+
+Using open API from OMDB :
+https://www.omdbapi.com/
+
+Tutorial from Youtube    : Web Programming UNPAS
